@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-18T06:56:16Z" name="Default suite" finished-at="2021-04-18T06:56:32Z" duration-ms="16231">
+    <groups>
+    </groups>
+    <test started-at="2021-04-18T06:56:16Z" name="Default test" finished-at="2021-04-18T06:56:32Z" duration-ms="16231">
+      <class name="com.equifax.www.TestAmazon">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.equifax.www.TestAmazon@4961f6af]" started-at="2021-04-18T06:56:16Z" name="openBrowser" finished-at="2021-04-18T06:56:18Z" duration-ms="2498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="amazonTest()[pri:0, instance:com.equifax.www.TestAmazon@4961f6af]" started-at="2021-04-18T06:56:18Z" name="amazonTest" finished-at="2021-04-18T06:56:32Z" duration-ms="13701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonTest -->
+      </class> <!-- com.equifax.www.TestAmazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
